@@ -11,12 +11,22 @@
 Create a new branch "survey".
 Please open a pull request to the default branch with your answer to the following questions.
 
-* <input type='checkbox' checked=true /> I have read the job description and understand the qualifications, the responsibilities and the compensation of this position.
+* [✅] I have read the job description and understand the qualifications, the responsibilities and the compensation of this position.
 1. What are you most proud of as a front-end developer?
+    - I get to build beautiful and interactive applications that will be used by hundreds if not thousands of people and solve their problems.
 1. What do you enjoy most working as a front-end developer?
+    - It gives me a chance to express my creativity.
 1. What is your favorite software development principle(s) and/or design pattern(s)?
+    - YAGNI (You Aren't Gonna Need It). Implementing features on demand is the best way to go.
 1. What is the top 1 (or up to 3) accomplishments you achieved in your previous company?
+    - I am currently the frontend team lead at the company I work for.
+    - I was also in charge of interviewing new interns.
 1. How do you like TDD?
+    - Writing test that fail (to cover the case of it not behaving as expected)
+    - Writing code after the test has passed
+    - Then refactor the code
+    - Obtain full test coverage.
+    - Configure the codebase for CI/CD.
 
 ## Coding challenge
 
